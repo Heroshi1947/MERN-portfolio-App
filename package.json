@@ -1,0 +1,20 @@
+{
+  "name": "mern-portfolio-app",
+  "version": "1.0.0",
+  "description": "portfolio webApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "nodemailer": "^6.9.5",
+    "nodemailer-brevo-transport": "^2.0.1",
+    "nodemon": "^3.0.1"
+  }
+}
